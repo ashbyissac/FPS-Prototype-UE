@@ -1,0 +1,27 @@
+[
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.Build.cs",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default\\FPSPrototype.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default\\FPSPrototype.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototype.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default\\FPSPrototype.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototypeGameModeBase.cpp",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default\\FPSPrototype.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\Source\\FPSPrototype\\FPSPrototypeGameModeBase.h",
+		"command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\HostX64\\x64\\cl.exe\" @C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default\\FPSPrototype.211.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

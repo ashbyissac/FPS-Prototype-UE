@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "FPSPrototypeEditor Editor Win64 Development (FPSPrototype)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_FPSPrototype.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ashby\\ashby-issac\\unreal-project-folders\\FPSPrototype\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
